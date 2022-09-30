@@ -1,0 +1,5 @@
+https://docs.python.org/3/library/tkinter.html
+https://stackoverflow.com/questions/18394597/is-there-a-way-to-create-transparent-windows-with-tkinter
+https://stackoverflow.com/questions/8691655/how-to-put-a-tkinter-window-on-top-of-the-others
+
+http://pyglet.org/
